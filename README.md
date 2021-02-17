@@ -3,9 +3,9 @@
 
 항상 공부하고 발전해나가는 중인 Junior Android Developer 입니다.
 
-[![WooYoung's github stats](https://github-readme-stats.vercel.app/api?username=wooyoung-tom&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![WooYoung's github stats](https://github-readme-stats.vercel.app/api?username=wooyoung-tom&count_private=true&show_icons=true&theme=onedark)](https://github.com/wooyoung-tom)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooyoung-tom&layout=compact)](https://github.com/wooyoung-tom)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooyoung-tom&layout=compact&theme=onedark)](https://github.com/wooyoung-tom)
 
 
 <!--
