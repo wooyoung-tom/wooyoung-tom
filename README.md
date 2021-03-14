@@ -1,7 +1,9 @@
 ### Hi there 👋  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wooyoung-tom)](https://hits.seeyoufarm.com)
 
-항상 공부하고 발전해나가는 중인 개발자입니다.
+항상 공부하고 발전해나가는 중인 Tom입니다.
+
+Contact: djdj7087@gmail.com
 
 [![WooYoung's github stats](https://github-readme-stats.vercel.app/api?username=wooyoung-tom&count_private=true&show_icons=true&theme=onedark)](https://github.com/wooyoung-tom)
 
