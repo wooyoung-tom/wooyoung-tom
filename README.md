@@ -1,7 +1,7 @@
 ### Hi there 👋  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wooyoung-tom)](https://hits.seeyoufarm.com)
 
-### 항상 공부하고 발전해나가는 중인 Tom입니다.
+### 마흔 살에 9억 전세 입주가 목표인 Tom입니다.
 
 Contact: djdj7087@gmail.com
 
