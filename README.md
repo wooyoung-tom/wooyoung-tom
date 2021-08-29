@@ -3,13 +3,12 @@
 ## 안녕하세요, Android Junior Developer 최우영, Tom 입니다.
 
 __계속해서 배우고 끊임없이 도전중입니다.__
-🌱 I’m currently learning ...
 
 __사용자에게 좋은 모바일 경험을 선사하기 위해 노력중입니다.__
 
 [![WooYoung's github stats](https://github-readme-stats.vercel.app/api?username=wooyoung-tom&count_private=true&show_icons=true&theme=onedark)](https://github.com/wooyoung-tom)
 
-## 🤙 Contacts
+### 🤙 Contacts
 - e-mail: djdj7087@gmail.com
 - medium: wooyoung-tom.medium.com
 
