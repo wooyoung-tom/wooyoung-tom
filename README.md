@@ -10,7 +10,7 @@ __사용자에게 좋은 모바일 경험을 선사하기 위해 노력중입니
 
 ### 🤙 Contacts
 - e-mail: djdj7087@gmail.com
-- medium: wooyoung-tom.medium.com
+- medium: https://wooyoung-tom.medium.com
 
 <!--
 **wooyoung-tom/wooyoung-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
