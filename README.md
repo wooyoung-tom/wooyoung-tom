@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-## 안녕하세요, Android Junior Developer 최우영, Tom 입니다.
+## 안녕하세요, Junior Android Developer 최우영, Tom 입니다.
 
 __계속해서 배우고 끊임없이 도전중입니다.__
 
