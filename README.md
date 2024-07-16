@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-## 안녕하세요, Junior Android Developer 최우영, Tom 입니다.
+## 안녕하세요, Android Software Engineer 최우영, Tom 입니다.
 
 __계속해서 배우고 끊임없이 도전중입니다.__
 
@@ -10,7 +10,7 @@ __사용자에게 좋은 모바일 경험을 선사하기 위해 노력중입니
 
 ### 🤙 Contacts
 - e-mail: djdj7087@gmail.com
-- blog: https://velog.io/@wooyoung-tom
+- blog: https://medium.com/@wooyoung-tom
 
 <!--
 **wooyoung-tom/wooyoung-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
